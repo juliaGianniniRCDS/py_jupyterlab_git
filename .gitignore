@@ -1,0 +1,13 @@
+#.gitignore 
+
+#Jupyter Notebook 
+.ipynb_checkpoints
+
+#IPython 
+profile_default/
+ipython_config.py
+
+#DLL
+__pycache__/
+
+
